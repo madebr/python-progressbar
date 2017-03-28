@@ -1,3 +1,7 @@
+2017-03-28:
+  - Add Travis CI
+  - Bump version to 2.3.1
+
 2016-03-03:
   - FIx division by 0 if maxval == 0
 

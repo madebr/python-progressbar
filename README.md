@@ -1,6 +1,6 @@
 # Text progress bar library for Python.
 
-[![Build Status](https://travis-ci.org/madebr/python-progressbar.svg?branch=master)](https://travis-ci.org/madebr/python-progressbar)
+[![Build Status](https://travis-ci.org/subdownloader/python-progressbar.svg?branch=master)](https://travis-ci.org/subdownloader/python-progressbar)
 
 A text progress bar is typically used to display the progress of a long
 running operation, providing a visual cue that processing is underway.

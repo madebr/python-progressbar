@@ -1,4 +1,6 @@
-Text progress bar library for Python.
+# Text progress bar library for Python.
+
+[![Build Status](https://travis-ci.org/madebr/python-progressbar.svg?branch=master)](https://travis-ci.org/madebr/python-progressbar)
 
 A text progress bar is typically used to display the progress of a long
 running operation, providing a visual cue that processing is underway.
@@ -7,6 +9,7 @@ The ProgressBar class manages the current progress, and the format of the line
 is given by a number of widgets. A widget is an object that may display
 differently depending on the state of the progress bar. There are three types
 of widgets:
+
  - a string, which always shows itself
 
  - a ProgressBarWidget, which may return a different value every time its
